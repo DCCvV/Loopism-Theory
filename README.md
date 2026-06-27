@@ -13,4 +13,4 @@ Each folder represents a core pillar of the theory, with subfolders and entries 
 - **/physics** → Quantum‑scale distortions (Quantum Mass Distortion, Energy Packets, Distortion Clusters)  
 - **/consciousness** → Emergent properties (Consciousness, Life Fluctuations, Death Recurrence)  
 - **/summaries** → Section indexes and pillar summaries from stress‑tests  
-- **/ai** → Machine‑readable compression of the theory (side task)
+- **theory.json** → Machine‑readable compression of the theory
