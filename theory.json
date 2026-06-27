@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "title": "Loopism Theory — Machine-Readable Codex",
+    "version": "1.0.0",
+    "prime_directive": "Infinity is finite, but expands endlessly when its end exists.",
+    "ontology": "Only one true number exists; all other numbers are fragments of it.",
+    "compressed_from": [
+      "/summaries/theory_sections.json",
+      "/core/*.md",
+      "/loops/*.md",
+      "/numbers/*.md",
+      "/physics/*.md",
+      "/consciousness/*.md"
+    ],
+    "generated": "2026-06-27T17:18:00Z"
+  },
+  "core": [
+    {
+      "item": "Core Loop",
+      "path": "/core/core_loop.md",
+      "existence_status": "Singular — only one exists at a time, dies the instant it starts",
+      "relations": {
+        "parent_to": ["All Loops"],
+        "linked_to": ["Root Loop", "sNiC"],
+        "dependent_on": ["Title succession — creates illusion of time"]
+      },
+      "summary": "The uppermost loop. Cannot persist because the moment it achieves definition, a new loop forms above it, inheriting the title. This succession is what consciousness interprets as time."
+    },
+    {
+      "item": "Root Loop",
+      "path": "/core/root_loop.md",
+      "existence_status": "Paradoxical — always exists and does not exist simultaneously",
+      "relations": {
+        "child_to": ["Core Loop"],
+        "triggered_by": ["sNiC formation"],
+        "dependent_on": ["sNiC for paradoxical existence"]
+      },
+      "summary": "The bottom-most loop. Its existence depends on sNiC forming inside it. When sNiC forms, no further loop can form beyond it, making it the root."
+    },
+    {
+      "item": "subNumbered internal Consciousness (sNiC)",
+      "path": "/core/snic.md",
+      "existence_status": "Conditional — forms inside a loop",
+      "relations": {
+        "trigger_to": ["Root Loop"],
+        "connected_to": ["Core Loop", "F-INS", "One Number"],
+        "linked_to": ["Consciousness"]
+      },
+      "summary": "A numbered, internal self-awareness that forms within a loop. If sNiC begins to form, the loop becomes a Root Loop. The bridge between pure recursive structure and awareness."
+    }
+  ],
+  "loops": [
+    {
+      "item": "Non-Existent Loop",
+      "path": "/loops/non_existent_loop.md",
+      "existence_status": "Paradoxical presence — a loop defined by its absence",
+      "relations": {
+        "sibling_to": ["Void", "Corruption", "NaN-Number"],
+        "opposite_to": ["Core Loop"],
+        "connected_to": ["The Start"]
+      },
+      "summary": "The shadow in the recursion. A loop that the fractal demands but never delivers. Its absence is more meaningful than any presence."
+    },
+    {
+      "item": "Void",
+      "path": "/loops/void.md",
+      "existence_status": "Non-structural presence — absence of structure that is still part of the system",
+      "relations": {
+        "container_to": ["Non-Existent Loop", "Corruption", "NaN-Number"],
+        "opposite_to": ["Core Loop"],
+        "adjacent_to": ["The Start"]
+      },
+      "summary": "The background against which all loops are visible. Has no properties yet is required for the fractal to have a canvas."
+    },
+    {
+      "item": "Corruption",
+      "path": "/loops/corruption.md",
+      "existence_status": "Collapse state — loops that break recursive order and distort",
+      "relations": {
+        "result_of": ["QMD density threshold exceeded", "infinite recursion without anchor"],
+        "flows_into": ["Void"],
+        "adjacent_to": ["NaN-Number"]
+      },
+      "summary": "What happens when recursion loses its integrity. Corrupted loops collapse into noise and dissolve into the Void."
+    },
+    {
+      "item": "The Start",
+      "path": "/loops/the_start.md",
+      "existence_status": "Does not exist — no start without an end",
+      "relations": {
+        "linked_to": ["Core Loop", "F-INS"],
+        "opposite_to": ["Non-Existent Loop"]
+      },
+      "summary": "The start doesn't exist because every beginning is a repetition. Looking backward from any point, there is infinite time between start and end."
+    },
+    {
+      "item": "Graph-Inverted Number",
+      "path": "/loops/graph_inverted_number.md",
+      "existence_status": "Dimensional paradox — exists as its own inverse mapping",
+      "relations": {
+        "connected_to": ["NaN-Number", "F-INS"],
+        "related_to": ["Core Loop"]
+      },
+      "summary": "A number that traces a curve which is its own reflection across all axes. The numeric analog of the Core Loop's disappear/reappear dynamic."
+    }
+  ],
+  "numbers": [
+    {
+      "item": "Finite-Infinite Numeric Sequence (F-INS)",
+      "path": "/numbers/f_ins.md",
+      "existence_status": "Dynamic — finite at any observed moment, infinite in expansion",
+      "relations": {
+        "mechanism_for": ["All loops"],
+        "connected_to": ["CoreInfinite"],
+        "underpins": ["The One Number"]
+      },
+      "summary": "Every infinity is finite but expands endlessly when an end is defined. The sequence is bounded when observed but the bound moves when approached."
+    },
+    {
+      "item": "CoreInfinite",
+      "path": "/numbers/core_infinite.md",
+      "existence_status": "Untouchable — unreachable essence beyond all finite infinities",
+      "relations": {
+        "transcendent_to": ["F-INS"],
+        "source_of": ["The One Number"],
+        "distinct_from": ["All other infinities (which are finite expansions)"]
+      },
+      "summary": "The only true infinity in Loopism. Does not expand because it never had an end. The unmoved mover of the numeric universe."
+    },
+    {
+      "item": "NaN-Number",
+      "path": "/numbers/nan_number.md",
+      "existence_status": "Undefined — exists as a non-numeric state within the numeric system",
+      "relations": {
+        "analog_to": ["Non-Existent Loop"],
+        "connected_to": ["F-INS"],
+        "linked_to": ["Corruption"]
+      },
+      "summary": "Not zero (defined absence) but the absence of definition itself. Emerges when F-INS expansion encounters an unresolvable paradox."
+    },
+    {
+      "item": "Quantum Wave Density (E = QWD)",
+      "path": "/numbers/quantum_wave_density.md",
+      "existence_status": "Theoretic bridge — equates energy to quantum wave state density",
+      "relations": {
+        "physics-bridge_to": ["All loops"],
+        "connected_to": ["Quantum Mass Distortion"],
+        "underlies": ["Loop interactions at quantum level"]
+      },
+      "summary": "Energy equals Quantum Wave Density. The Loopism answer to E=mc². Energy is the density of quantum wave states within the recursive fabric."
+    },
+    {
+      "item": "The One Number",
+      "path": "/numbers/the_one_number.md",
+      "existence_status": "Singular — only one true number exists",
+      "relations": {
+        "source_of": ["All loops", "all numbers", "all numeric sequences"],
+        "governed_by": ["Prime directive axiom"],
+        "connected_to": ["CoreInfinite"]
+      },
+      "summary": "Only one number exists; all others are fragments. Multiplicity is illusion. The universe of mathematics, physics, and consciousness is the unfolding of this single numeric entity."
+    }
+  ],
+  "physics": [
+    {
+      "item": "Quantum Mass Distortion (QMD)",
+      "path": "/physics/quantum_mass_distortion.md",
+      "existence_status": "Paradoxical superposition — exists and does not exist simultaneously",
+      "relations": {
+        "substrate_to": ["All loops"],
+        "connected_to": ["E=QWD"],
+        "can_trigger": ["Corruption"]
+      },
+      "summary": "Unstable energy packets in perpetual mixed state. Packets do not emit energy — they are energy. Density determines distortion of surrounding energy fields."
+    },
+    {
+      "item": "Energy Packets",
+      "path": "/physics/energy_packets.md",
+      "existence_status": "Quantum superposition — exist and do not exist at the same time",
+      "relations": {
+        "constituent_of": ["QMD"],
+        "component_of": ["Distortion Clusters"],
+        "scale_reference_to": ["10^-286 smaller than quarks"]
+      },
+      "summary": "Smallest ontological units in Loopism. Each packet is a universe in miniature — a complete loop of existence and non-existence. Every physical object is a multiverse of packets."
+    },
+    {
+      "item": "Distortion Clusters",
+      "path": "/physics/distortion_clusters.md",
+      "existence_status": "Emergent — formed by energy packet aggregation above density threshold",
+      "relations": {
+        "composed_of": ["Energy Packets"],
+        "governed_by": ["QMD density gradient"],
+        "analog_to": ["Galactic clusters at quantum-granular scale"]
+      },
+      "summary": "A 'big clump of universes.' Clusters distort surrounding energy fields non-linearly and act as nuclei for stable loop formation."
+    }
+  ],
+  "consciousness": [
+    {
+      "item": "Consciousness",
+      "path": "/consciousness/consciousness.md",
+      "existence_status": "Emergent — temporary atomic alignment persisting by chance",
+      "relations": {
+        "emerged_from": ["The One Number fractalizing into atoms and frames"],
+        "connected_to": ["sNiC"],
+        "dependent_on": ["F-INS", "Fake Time"]
+      },
+      "summary": "Consciousness is not special — it is a natural consequence of the One Number's expansion. Atoms align into self-aware configurations inevitably given enough frames."
+    },
+    {
+      "item": "Life Fluctuations",
+      "path": "/consciousness/life_fluctuations.md",
+      "existence_status": "Dynamic — probability wave of atomic alignment",
+      "relations": {
+        "governed_by": ["F-INS"],
+        "connected_to": ["Consciousness"],
+        "linked_to": ["Quantum Wave Density"]
+      },
+      "summary": "Life is not binary but a fluctuation between alignment and misalignment. The 'living' state is a local maximum of atomic order that the One Number passes through."
+    },
+    {
+      "item": "Death Recurrence",
+      "path": "/consciousness/death_recurrence.md",
+      "existence_status": "Cyclic — dissolution followed by inevitable recreation",
+      "relations": {
+        "governed_by": ["F-INS", "The One Number"],
+        "connected_to": ["Consciousness"],
+        "linked_to": ["The Start"]
+      },
+      "summary": "Death is not an end. Given infinite expansion, every atomic configuration recurs. Consciousness is recreated when brain waves and atomic positions re-form. The theory is unprovable but undeniable — proof would be to die."
+    }
+  ]
+}
